@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.5.0</version>
+    <title>$title$</title>
+    <authors>Neurocita</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/neurocita/named-pipe-wrapper</projectUrl>
+    <description>$description$</description>
+    <releaseNotes>Rebuild to reflect NamedPipeClient with two parameters.</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>IPC Named Pipe Pipes Wrapper Message Messages Messaging Bus Serialize Serializable</tags>
+  </metadata>
+</package>
